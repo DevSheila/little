@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.little">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidPractise">
+        <activity android:name=".views.SampleVehicleActivity"></activity>
+        <activity android:name=".views.SampleVehicleResponseActivity"></activity>
+
+        <activity android:name=".views.PasswordsActivity" />
+        <activity android:name=".views.VehicleOwnerActivity" />
+        <activity android:name=".views.VehicleDocsActivity" />
+        <activity android:name=".views.VehicleDetailsActivity"></activity>
+        <activity
+            android:name=".views.SampleResponseActivity"
+            android:parentActivityName=".views.SampleActivity" />
+        <activity
+            android:name=".views.RiderDocsActivity"
+            android:parentActivityName=".views.RegisterActivity" />
+        <activity
+            android:name=".views.SampleActivity"
+            android:parentActivityName=".views.RiderDocsActivity" />
+        <activity
+            android:name=".views.OtpVerifyActivity"
+            android:parentActivityName=".views.OtpActivity" />
+        <activity
+            android:name=".views.RegisterActivity"
+            android:parentActivityName=".views.OtpVerifyActivity" />
+        <activity
+            android:name=".views.OtpActivity"
+            android:parentActivityName=".views.MainActivity" />
+
+        <activity android:name=".views.MainActivity"></activity>
+        <activity android:name=".views.ProgressActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="title_activity_login">title_activity_login</string>
+
+    <string name="otp_send">We will send you a one time otp on this given mobile number</string>
+
+    <string name="upload_title">Take A Photo of your National ID(Front)</string>
+    <string name="upload_content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio veniam
+        repudiandae sint doloribus reprehenderit fugit, temporibus voluptates, ab iure, commodi perspiciatis fugiat?
+        Dicta necessitatibus corrupti aspernatur neque deleniti perferendis cumque. Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Sit illo quod voluptatibus possimus voluptate vero ea cum facere, asperiores,
+        neque labore ipsum! Illum quod ea facere at quo inventore voluptas?</string>
+    <string name="error_doc">National Id(front)</string>
+    <string name="error_title">The document you sent is not the one we requested.</string>
+
+    <string name="error_msg">Please retake the photo.Make sure the photo you are sending is your National ID.</string>
+
+    <string-array name="array_ghana">
+        <item>Select Your City</item>
+        <item>ACCRA</item>
+    </string-array>
+
+    <string-array name="array_senegal">
+        <item>Select Your City</item>
+        <item>DAKAR</item>
+    </string-array>
+
+    <string-array name="array_somalia">
+        <item>Select Your City</item>
+        <item>Mogadishu</item>
+    </string-array>
+
+    <string-array name="array_uganda">
+        <item>Select Your City</item>
+        <item>Kampala</item>
+        <item>Mukono</item>
+
+    </string-array>
+
+    <string-array name="array_india">
+        <item>Select Your City</item>
+        <item>AHMEDABAD</item>
+
+    </string-array>
+
+    <string-array name="array_ethiopia">
+        <item>Select Your City</item>
+        <item>Ethiopia</item>
+    </string-array>
+    <string-array name="array_zambia">
+        <item>Select Your City</item>
+        <item>Lusaka</item>
+    </string-array>
+    <string-array name="array_tanzania">
+        <item>Select Your City</item>
+        <item>Dodoma</item>
+        <item>Arusha</item>
+        <item>Dar es salaam</item>
+
+    </string-array>
+
+    <string-array name="array_kenya">
+        <item>Select Your City</item>
+        <item>Malindi</item>
+        <item>Kakamega</item>
+        <item>Mombasa</item>
+        <item>Kisumu</item>
+        <item>Eldoret</item>
+        <item>Nakuru</item>
+        <item>Nyeri</item>
+        <item>Nairobi</item>
+    </string-array>
+
+    <string-array name="array_make">
+        <item>Select Your Make</item>
+        <item>BAIC</item>
+        <item>BETH</item>
+        <item>BOXER</item>
+        <item>BYD</item>
+        <item>Changan</item>
+        <item>Cherry</item>
+        <item>Chevrolet</item>
+        <item>Citroen</item>
+        <item>DAF</item>
+        <item>FAW</item>
+        <item>FORCE</item>
+        <item>Ford</item>
+        <item>HONDA</item>
+        <item>Isuzu</item>
+        <item>Hyundai</item>
+        <item>Geely</item>
+        <item>Dong Feng</item>
+        <item>Jac</item>
+    </string-array>
+
+    <string-array name="array_default_model">
+        <item>Select Your Model</item>
+    </string-array>
+
+    <string-array name="array_Baic">
+        <item>Select Your Model</item>
+        <item>FN617</item>
+        <item>SENOVA</item>
+        <item>TOUR H1</item>
+    </string-array>
+
+
+    <string-array name="array_Beth">
+        <item>Select Your Model</item>
+        <item>BETH</item>
+    </string-array>
+
+    <string-array name="array_Boxer">
+        <item>Select Your Model</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>BAJAJ</item>
+        <item>BMW</item>
+        <item>BMW.</item>
+        <item>CHANGI</item>
+        <item>CHEVROLET</item>
+        <item>KWID</item>
+        <item>TOYOTA</item>
+        <item>JAC</item>
+
+    </string-array>
+
+</resources>
